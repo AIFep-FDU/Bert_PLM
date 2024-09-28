@@ -1,5 +1,5 @@
 # Bert_PLM
-This Bert Task is asking you to do a mask-modeling task---to wit, fill all the four blanks up.
+This Bert Task is asking you to do a mask-modeling task---to wit, fill all the four blanks up.\n
 这次的Bert时间任务要求同学们进行掩码重建任务---即将代码中的四个空填上。
 
 There four blanks in this file and three of them is about training , which is focus on increasing training ability.
