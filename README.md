@@ -1,16 +1,24 @@
-# Bert_PLM
-This Bert Task is asking you to do a mask-modeling task---to wit, fill all the four blanks up.&nbsp;
+# 作业说明
 
-这次的Bert时间任务要求同学们进行掩码重建任务---即将代码中的四个空填上。
+## 任务概述
 
-There four blanks in this file and three of them is about training , which is focus on increasing training ability.&nbsp;
+这次作业要求同学们进行Bert的预训练任务，填补代码中的四个空缺位置。任务分为两部分：
+1. 完整代码文件的提交。
+2. 成功运行训练或评估的截图。
 
-四个空中三个是在train部分，想借此提高同学们的训练模型的能力。
+## 任务要求
 
-Requirements:A whole file + a succesful running capture&nbsp;
+1. 共有四个填空位置，其中**三个**填空位于训练部分，目的是提升同学们训练模型的能力。
+2. 最终提交的作业需要包括：
+   - **完整的代码文件**，填补所有四个空缺。
+   - **成功运行的截图**，展示训练或评估成功的结果。
 
-要求提交：一个完整的代码文件+训练/eval成功的截图
+## 评分标准
 
-The scores will be caculated by the situation about the mask-task completation and the capture. If you can get a good train eventually, you can contact assistance teature for a score plus.&nbsp;
+- 评分将依据掩码任务的完成情况以及截图展示的效果进行评估。
+- 最后结果超过xx，即为满分。
 
-分数将由填空情况和截图计算出来。如果你最后能够训练得比较好，请联系助教加分。
+## 提交内容
+
+- **代码文件**：包含所有填补的代码，确保完整并能够成功运行。
+- **运行截图**：展示模型训练或评估成功的具体结果。
